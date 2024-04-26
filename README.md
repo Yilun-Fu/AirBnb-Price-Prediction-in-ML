@@ -1,4 +1,7 @@
 # AirBnb-Price-Prediction-in-ML
+## Dataset:
+https://drive.google.com/drive/folders/1xk5RyR-UgF6M-ddhn11SXHEWJeB0fQo5
+
 ## Data Processing:
 1. Build sentiment analysis score based on comments：sentiment analysis.ipynb
 2. Data cleaning: data_cleanup.py
